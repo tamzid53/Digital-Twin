@@ -1,0 +1,725 @@
+Patient.ID,Medications
+ABC111,Unknown/Not Applicable
+ABC112,Unknown/Not Applicable
+ABC113,Unknown/Not Applicable
+ABC114,"""Cisplatin,Dexamethasone,Gemcitabine Hydrochloride"""
+ABC115,Cisplatin
+ABC116,Cisplatin
+ABC117,"""Carboplatin,Cisplatin,Denosumab,Dexamethasone,Etoposide,Hydrocortisone,Levothyroxine,Megestrol Acetate,Pegfilgrastim,Prednisone"""
+ABC118,Cisplatin
+ABC119,Unknown/Not Applicable
+ABC120,Cisplatin
+ABC121,"""Carboplatin,Dexamethasone,Folinic Acid (Leucovorin),Hydrocortisone,Paclitaxel,Prednisone"""
+ABC122,Cisplatin
+ABC123,Unknown/Not Applicable
+ABC124,Levothyroxine
+ABC125,"""Carboplatin,Cetuximab,Cisplatin,Dexamethasone,Docetaxel,Hydrocortisone,Levothyroxine,Methylprednisolone,Minocycline Hydrochloride,Nivolumab,Paclitaxel,Pegfilgrastim"""
+ABC126,"""Dexamethasone,Levothyroxine"""
+ABC127,"""Azacitidine,Busulfan,Cytarabine,Daunorubicin Hydrochloride,Dexamethasone,Filgrastim,Fludarabine Phosphate,Hydrocortisone,Methotrexate,Methylprednisolone,Prednisone,Rituximab,Tacrolimus"""
+ABC128,Unknown/Not Applicable
+ABC129,Unknown/Not Applicable
+ABC130,Unknown/Not Applicable
+ABC131,Unknown/Not Applicable
+ABC132,"""Carboplatin,Cemiplimab-rwlc,Investigational Agent"""
+ABC133,"""Carboplatin,Paclitaxel,Pembrolizumab"""
+ABC134,"""Dexamethasone,Levothyroxine,Prednisone,Zoledronic Acid"""
+ABC135,"""Chemo, NOS"""
+ABC136,"""Dexamethasone,Levothyroxine,Octreotide"""
+ABC137,Unknown/Not Reported
+ABC138,Unknown/Not Applicable
+ABC139,"""Carboplatin,Dexamethasone,Folinic Acid (Leucovorin),Hydrocortisone,Levothyroxine,Paclitaxel,Pembrolizumab"""
+ABC140,"""Dexamethasone,Hydrocortisone,Investigational Agent,Prednisone"""
+ABC141,"""Cisplatin,Fluorouracil"""
+ABC142,Unknown/Not Applicable
+ABC143,Unknown/Not Applicable
+ABC144,"""Carboplatin,Dexamethasone,Folinic Acid (Leucovorin),Hydrocortisone,Levothyroxine,Methylprednisolone,Paclitaxel,Prednisone"""
+ABC145,Unknown/Not Applicable
+ABC146,"""Cisplatin,Fluorouracil"""
+ABC147,Cisplatin
+ABC148,"""Cisplatin,Fluorouracil,Folinic Acid (Leucovorin),Irinotecan Hydrochloride,Oxaliplatin,Pegfilgrastim"""
+ABC149,"""Dexamethasone,Folinic Acid (Leucovorin),Levothyroxine,Prednisone"""
+ABC150,"""Cisplatin,Dexamethasone,Hydrocortisone,Levothyroxine"""
+ABC151,Unknown/Not Applicable
+ABC152,"""Capecitabine,Carboplatin,Chemo, NOS,Cisplatin,Fluorouracil,Paclitaxel"""
+ABC153,Cisplatin
+ABC154,"""Carboplatin,Paclitaxel"""
+ABC155,Unknown/Not Applicable
+ABC156,"""Dexamethasone,Investigational Agent,Levothyroxine,Prednisone"""
+ABC157,Unknown/Not Applicable
+ABC158,Unknown/Not Applicable
+ABC159,Unknown/Not Applicable
+ABC160,"""Cisplatin,Dexamethasone,Gemcitabine Hydrochloride"""
+ABC161,Cisplatin
+ABC162,Cisplatin
+ABC163,"""Carboplatin,Cisplatin,Denosumab,Dexamethasone,Etoposide,Hydrocortisone,Levothyroxine,Megestrol Acetate,Pegfilgrastim,Prednisone"""
+ABC164,Cisplatin
+ABC165,Unknown/Not Applicable
+ABC166,Cisplatin
+ABC167,"""Carboplatin,Dexamethasone,Folinic Acid (Leucovorin),Hydrocortisone,Paclitaxel,Prednisone"""
+ABC168,Cisplatin
+ABC169,Unknown/Not Applicable
+ABC170,Levothyroxine
+ABC171,"""Carboplatin,Cetuximab,Cisplatin,Dexamethasone,Docetaxel,Hydrocortisone,Levothyroxine,Methylprednisolone,Minocycline Hydrochloride,Nivolumab,Paclitaxel,Pegfilgrastim"""
+ABC172,"""Dexamethasone,Levothyroxine"""
+ABC173,"""Azacitidine,Busulfan,Cytarabine,Daunorubicin Hydrochloride,Dexamethasone,Filgrastim,Fludarabine Phosphate,Hydrocortisone,Methotrexate,Methylprednisolone,Prednisone,Rituximab,Tacrolimus"""
+ABC174,Unknown/Not Applicable
+ABC175,Unknown/Not Applicable
+ABC176,Unknown/Not Applicable
+ABC177,Cisplatin
+ABC178,"""Fluorouracil,Levothyroxine"""
+ABC179,Unknown/Not Applicable
+ABC180,"""Carboplatin,Cetuximab,Paclitaxel"""
+ABC181,Unknown/Not Applicable
+ABC182,"""Octreotide,Zoledronic Acid"""
+ABC183,Unknown/Not Applicable
+ABC184,Fluorouracil
+ABC185,"""Dexamethasone,Levothyroxine,Methylprednisolone,Octreotide,Prednisone"""
+ABC186,Dexamethasone
+ABC187,"""Chemo, NOS"""
+ABC188,"""Carboplatin,Dexamethasone,Hydrocortisone,Paclitaxel"""
+ABC189,Cisplatin
+ABC190,Unknown/Not Applicable
+ABC191,"""Carboplatin,Cisplatin,Fluorouracil"""
+ABC192,Cisplatin
+ABC193,"""Capecitabine,Cisplatin,Gemcitabine Hydrochloride"""
+ABC194,"""Cisplatin,Dexamethasone,Given with Investigational Therapy,Hydrocortisone,Investigational Agent"""
+ABC195,Unknown/Not Applicable
+ABC196,Unknown/Not Applicable
+ABC197,Cisplatin
+ABC198,Cisplatin
+ABC199,"""Cisplatin,Dexamethasone,Given with Investigational Therapy,Hydrocortisone,Investigational Agent"""
+ABC200,"""Cisplatin,Docetaxel,Pembrolizumab"""
+ABC201,"""Bevacizumab,Levothyroxine"""
+ABC202,"""Carboplatin,Cisplatin,Docetaxel,Pembrolizumab"""
+ABC203,Dexamethasone
+ABC204,"""Carboplatin,Dexamethasone,Hydrocortisone,Levothyroxine,Methylprednisolone,Octreotide,Paclitaxel,Prednisone"""
+ABC205,Unknown/Not Applicable
+ABC206,"""Carboplatin,Dexamethasone,Hydrocortisone,Levothyroxine,Nivolumab,Prednisone,Zoledronic Acid"""
+ABC207,Unknown/Not Applicable
+ABC208,Cisplatin
+ABC209,"""Cisplatin,Dexamethasone,Folinic Acid (Leucovorin),Hydrocortisone,Levothyroxine,Pembrolizumab"""
+ABC210,Unknown/Not Applicable
+ABC211,"""Cetuximab,Cisplatin"""
+ABC212,"""Cisplatin,Dexamethasone,Lenvatinib,Levothyroxine,Methylprednisolone,Prednisone"""
+ABC213,"""Carboplatin,Cisplatin"""
+ABC214,Cisplatin
+ABC215,"""Carboplatin,Cetuximab,Dexamethasone,Hydrocortisone,Investigational Agent,Ipilimumab,Lenvatinib,Levothyroxine,Minocycline Hydrochloride,Nivolumab,Paclitaxel,Pembrolizumab,Prednisone,Zoledronic Acid"""
+ABC216,Unknown/Not Applicable
+ABC217,Unknown/Not Applicable
+ABC218,Cisplatin
+ABC219,"""Carboplatin,Cisplatin,Dexamethasone,Hydrocortisone,Levothyroxine"""
+ABC220,"""Cisplatin,Dexamethasone,Hydrocortisone,Levothyroxine"""
+ABC221,Unknown/Not Applicable
+ABC222,"""Cisplatin,Fluorouracil"""
+ABC223,Cisplatin
+ABC224,Cisplatin
+ABC225,Unknown/Not Applicable
+ABC226,Cisplatin
+ABC227,"""Carboplatin,Cisplatin,Paclitaxel"""
+ABC228,"""Dexamethasone,Levothyroxine,Methylprednisolone"""
+ABC229,Cisplatin
+ABC230,Cisplatin
+ABC231,"""Cisplatin,Dexamethasone,Hydrocortisone,Levothyroxine"""
+ABC232,"""Chemo, NOS"""
+ABC233,Cetuximab
+ABC234,"""Carboplatin,Dexamethasone,Hydrocortisone,Investigational Agent,Paclitaxel"""
+ABC235,"""Carboplatin,Paclitaxel"""
+ABC236,"""Carboplatin,Cetuximab,Paclitaxel"""
+ABC237,"""Carboplatin,Cetuximab,Cisplatin,Dexamethasone,Docetaxel,Folinic Acid (Leucovorin),Hydrocortisone,Levothyroxine,Paclitaxel,Pegfilgrastim,Pembrolizumab,Zoledronic Acid"""
+ABC238,Unknown/Not Applicable
+ABC239,Unknown/Not Applicable
+ABC240,"""Carboplatin,Cisplatin,Etoposide,Paclitaxel"""
+ABC241,Unknown/Not Applicable
+ABC242,Cisplatin
+ABC243,Unknown/Not Applicable
+ABC244,Unknown/Not Applicable
+ABC245,Unknown/Not Applicable
+ABC246,"""Carboplatin,Cisplatin"""
+ABC247,Cisplatin
+ABC248,"""Carboplatin,Cetuximab,Docetaxel,Nivolumab,Paclitaxel"""
+ABC249,"""Dexamethasone,Given with Investigational Therapy,Hydrocortisone,Investigational Agent,Prednisone"""
+ABC250,"""Carboplatin,Cisplatin,Denosumab,Dexamethasone,Etoposide,Hydrocortisone,Levothyroxine,Megestrol Acetate,Pegfilgrastim,Prednisone"""
+ABC251,Cisplatin
+ABC252,Unknown/Not Applicable
+ABC253,Cisplatin
+ABC254,"""Carboplatin,Dexamethasone,Folinic Acid (Leucovorin),Hydrocortisone,Paclitaxel,Prednisone"""
+ABC255,Cisplatin
+ABC256,Unknown/Not Applicable
+ABC257,Levothyroxine
+ABC258,"""Carboplatin,Cetuximab,Cisplatin,Dexamethasone,Docetaxel,Hydrocortisone,Levothyroxine,Methylprednisolone,Minocycline Hydrochloride,Nivolumab,Paclitaxel,Pegfilgrastim"""
+ABC259,"""Dexamethasone,Levothyroxine"""
+ABC260,"""Azacitidine,Busulfan,Cytarabine,Daunorubicin Hydrochloride,Dexamethasone,Filgrastim,Fludarabine Phosphate,Hydrocortisone,Methotrexate,Methylprednisolone,Prednisone,Rituximab,Tacrolimus"""
+ABC261,Unknown/Not Applicable
+ABC262,Unknown/Not Applicable
+ABC263,Unknown/Not Applicable
+ABC264,Cisplatin
+ABC265,"""Fluorouracil,Levothyroxine"""
+ABC266,Unknown/Not Applicable
+ABC267,"""Carboplatin,Cetuximab,Paclitaxel"""
+ABC268,Unknown/Not Applicable
+ABC269,"""Octreotide,Zoledronic Acid"""
+ABC270,Unknown/Not Applicable
+ABC271,Fluorouracil
+ABC272,"""Dexamethasone,Levothyroxine,Methylprednisolone,Octreotide,Prednisone"""
+ABC273,"""Cetuximab,Cisplatin,Docetaxel,Fluorouracil,Paclitaxel"""
+ABC274,"""Carboplatin,Cetuximab,Cisplatin,Docetaxel,Fluorouracil"""
+ABC275,"""Dexamethasone,Methylprednisolone,Prednisone"""
+ABC276,"""Dexamethasone,Levothyroxine,Prednisone"""
+ABC277,"""Carboplatin,Cetuximab,Dexamethasone,Hydrocortisone,Minocycline Hydrochloride,Nivolumab,Paclitaxel,Prednisone"""
+ABC278,"""Carboplatin,Docetaxel,Nivolumab"""
+ABC279,Cisplatin
+ABC280,"""Carboplatin,Cetuximab,Dexamethasone,Hydrocortisone,Levothyroxine,Paclitaxel,Prednisone"""
+ABC281,Unknown/Not Applicable
+ABC282,"""Carboplatin,Other"""
+ABC283,Pembrolizumab
+ABC284,"""Cisplatin,Dexamethasone,Hydrocortisone,Methylprednisolone,Prednisone"""
+ABC285,Unknown/Not Applicable
+ABC286,"""Cisplatin,Dexamethasone,Hydrocortisone,Levothyroxine"""
+ABC287,"""Carboplatin,Paclitaxel"""
+ABC288,Unknown/Not Applicable
+ABC289,Unknown/Not Applicable
+ABC290,"""Carboplatin,Dexamethasone,Hydrocortisone,Levothyroxine,Paclitaxel"""
+ABC291,Cisplatin
+ABC292,Cisplatin
+ABC293,"""Cisplatin,Dexamethasone"""
+ABC294,Cisplatin
+ABC295,Other
+ABC296,Cisplatin
+ABC297,"""Cisplatin,Dexamethasone,Hydrocortisone,Investigational Agent,Prednisone"""
+ABC298,Unknown/Not Applicable
+ABC299,"""Carboplatin,Cetuximab,Dexamethasone,Hydrocortisone,Methylprednisolone,Paclitaxel"""
+ABC300,Unknown/Not Applicable
+ABC301,Unknown/Not Applicable
+ABC302,"""Carboplatin,Dexamethasone,Hydrocortisone,Paclitaxel"""
+ABC303,Cisplatin
+ABC304,"""Carboplatin,Paclitaxel,Pembrolizumab"""
+ABC305,"""Carboplatin,Paclitaxel"""
+ABC306,Dexamethasone
+ABC307,"""Dexamethasone,Levothyroxine"""
+ABC308,Unknown/Not Applicable
+ABC309,Unknown/Not Applicable
+ABC310,Cisplatin
+ABC311,Other
+ABC312,Unknown/Not Applicable
+ABC313,Cisplatin
+ABC314,"""Cisplatin,Dexamethasone,Hydrocortisone"""
+ABC315,"""Carboplatin,Cetuximab,Dexamethasone,Hydrocortisone,Levothyroxine,Paclitaxel"""
+ABC316,Unknown/Not Applicable
+ABC317,Pembrolizumab
+ABC318,Cisplatin
+ABC319,"""Carboplatin,Dexamethasone,Hydrocortisone,Levothyroxine,Paclitaxel"""
+ABC320,Unknown/Not Applicable
+ABC321,"""Carboplatin,Dexamethasone,Hydrocortisone,Paclitaxel"""
+ABC322,"""Cetuximab,Cisplatin,Dexamethasone,Folinic Acid (Leucovorin),Hydrocortisone,Minocycline Hydrochloride,Pembrolizumab,Prednisone"""
+ABC323,"""Chemo, NOS"""
+ABC324,Unknown/Not Applicable
+ABC325,"""Cisplatin,Dexamethasone,Hydrocortisone,Levothyroxine"""
+ABC326,Cisplatin
+ABC327,Unknown/Not Applicable
+ABC328,Unknown/Not Applicable
+ABC329,"""Levothyroxine,Octreotide,Sodium Iodide I-131"""
+ABC330,Unknown/Not Applicable
+ABC331,"""Carboplatin,Dexamethasone,Filgrastim,Hydrocortisone,Levothyroxine,Methylprednisolone"""
+ABC332,"""Methylprednisolone,Prednisone"""
+ABC333,"""Dexamethasone,Folinic Acid (Leucovorin),Hydrocortisone,Pembrolizumab"""
+ABC334,Unknown/Not Applicable
+ABC335,Unknown/Not Applicable
+ABC336,"""Carboplatin,Docetaxel,Nivolumab"""
+ABC337,Unknown/Not Applicable
+ABC338,"""Cisplatin,Fluorouracil"""
+ABC339,Unknown/Not Applicable
+ABC340,"""Cisplatin,Dexamethasone,Hydrocortisone,Levothyroxine,Minocycline Hydrochloride"""
+ABC341,Unknown/Not Applicable
+ABC342,Cisplatin
+ABC343,Unknown/Not Applicable
+ABC344,Unknown/Not Applicable
+ABC345,Unknown/Not Applicable
+ABC346,Unknown/Not Applicable
+ABC347,Unknown/Not Applicable
+ABC348,Unknown/Not Applicable
+ABC349,Unknown/Not Applicable
+ABC350,"""Carboplatin,Dexamethasone,Hydrocortisone,Paclitaxel,Pembrolizumab"""
+ABC351,"""Carboplatin,Cetuximab,Fluorouracil,Pembrolizumab"""
+ABC352,"""Cisplatin,Given with Investigational Therapy,Investigational Agent,Pembrolizumab,Sotorasib"""
+ABC353,Cisplatin
+ABC354,"""Bicalutamide,Leuprolide Acetate,Trastuzumab"""
+ABC355,"""Carboplatin,Cetuximab,Cisplatin,Fluorouracil,Nivolumab"""
+ABC356,"""Cisplatin,Docetaxel,Pembrolizumab"""
+ABC357,"""Carboplatin,Cisplatin,Dexamethasone,Levothyroxine"""
+ABC358,"""Carboplatin,Paclitaxel,Pembrolizumab"""
+ABC359,"""Given with Investigational Therapy,Investigational Agent,Levothyroxine"""
+ABC360,"""Carboplatin,Cisplatin"""
+ABC361,"""Carboplatin,Cisplatin,Dexamethasone,Docetaxel,Hydrocortisone,Levothyroxine,Paclitaxel"""
+ABC362,Unknown/Not Applicable
+ABC363,Unknown/Not Applicable
+ABC364,"""Dexamethasone,Levothyroxine,Methylprednisolone,Octreotide,Prednisone"""
+ABC365,Unknown/Not Applicable
+ABC366,Unknown/Not Applicable
+ABC367,Cisplatin
+ABC368,"""Carboplatin,Paclitaxel,Pembrolizumab"""
+ABC369,"""Carboplatin,Dexamethasone,Hydrocortisone,Ipilimumab,Lenvatinib,Levothyroxine,Nivolumab,Paclitaxel,Prednisone,Vorinostat"""
+ABC370,Cisplatin
+ABC371,Unknown/Not Applicable
+ABC372,Cisplatin
+ABC373,Unknown/Not Applicable
+ABC374,"""Dexamethasone,Folinic Acid (Leucovorin),Levothyroxine,Octreotide"""
+ABC375,Unknown/Not Applicable
+ABC376,Cisplatin
+ABC377,"""Carboplatin,Cisplatin,Dexamethasone,Hydrocortisone,Levothyroxine,Paclitaxel"""
+ABC378,Cetuximab
+ABC379,"""Carboplatin,Cisplatin,Paclitaxel"""
+ABC380,"""Carboplatin,Dexamethasone,Hydrocortisone,Levothyroxine,Methylprednisolone,Paclitaxel,Pembrolizumab"""
+ABC381,"""Dexamethasone,Levothyroxine"""
+ABC382,Unknown/Not Applicable
+ABC383,Carboplatin
+ABC384,"""Carboplatin,Cisplatin,Investigational Agent,Paclitaxel,Pembrolizumab"""
+ABC385,Cetuximab
+ABC386,Unknown/Not Applicable
+ABC387,Cisplatin
+ABC388,"""Chemo, NOS"""
+ABC389,Cisplatin
+ABC390,Carboplatin
+ABC391,Unknown/Not Applicable
+ABC392,Cisplatin
+ABC393,Unknown/Not Applicable
+ABC394,"""Carboplatin,Cetuximab,Dexamethasone,Folinic Acid (Leucovorin),Hydrocortisone,Levothyroxine,Nivolumab,Paclitaxel,Prednisone"""
+ABC395,"""Carboplatin,Cetuximab,Dexamethasone,Hydrocortisone,Levothyroxine,Methylprednisolone,Minocycline Hydrochloride"""
+ABC396,Cisplatin
+ABC397,"""Carboplatin,Nivolumab"""
+ABC398,Unknown/Not Applicable
+ABC399,"""Carboplatin,Cetuximab,Dexamethasone,Gemcitabine Hydrochloride,Hydrocortisone,Ipilimumab,Nivolumab,Paclitaxel,Prednisone"""
+ABC400,Unknown/Not Applicable
+ABC401,Methylprednisolone
+ABC402,Unknown/Not Applicable
+ABC403,"""Cisplatin,Dexamethasone,Hydrocortisone"""
+ABC404,Carboplatin
+ABC405,Cisplatin
+ABC406,"""Capecitabine,Carboplatin,Cetuximab,Cisplatin,Dexamethasone,Given with Investigational Therapy,Hydrocortisone,Investigational Agent,Levothyroxine,Paclitaxel"""
+ABC407,"""Cisplatin,Pembrolizumab"""
+ABC408,"""Carboplatin,Cisplatin,Etoposide,Nivolumab"""
+ABC409,Unknown/Not Applicable
+ABC410,"""Dexamethasone,Prednisone,Sirolimus"""
+ABC411,Cisplatin
+ABC412,Cisplatin
+ABC413,"""Carboplatin,Folinic Acid (Leucovorin),Hydrocortisone,Levothyroxine,Megestrol Acetate,Octreotide"""
+ABC414,"""Bicalutamide,Leuprolide Acetate"""
+ABC415,Unknown/Not Reported
+ABC416,Cisplatin
+ABC417,"""Carboplatin,Cetuximab,Dexamethasone,Hydrocortisone,Levothyroxine,Paclitaxel,Pembrolizumab"""
+ABC418,Unknown/Not Applicable
+ABC419,"""Dexamethasone,Folinic Acid (Leucovorin),Hydrocortisone,Nivolumab,Prednisone,Zoledronic Acid"""
+ABC420,Unknown/Not Applicable
+ABC421,Unknown/Not Applicable
+ABC422,Unknown/Not Applicable
+ABC423,"""Carboplatin,Cetuximab,Paclitaxel,Pembrolizumab"""
+ABC424,Unknown/Not Applicable
+ABC425,"""Carboplatin,Cetuximab,Cisplatin,Other,Paclitaxel"""
+ABC426,"""Carboplatin,Cetuximab,Dexamethasone,Hydrocortisone,Levothyroxine,Paclitaxel"""
+ABC427,"""Carboplatin,Cetuximab,Cisplatin,Dexamethasone,Hydrocortisone,Nivolumab,Paclitaxel,Panitumumab"""
+ABC428,"""Carboplatin,Paclitaxel,Pembrolizumab"""
+ABC429,Unknown/Not Applicable
+ABC430,"""Cisplatin,Dexamethasone,Filgrastim"""
+ABC431,Cisplatin
+ABC432,"""Carboplatin,Cetuximab,Cisplatin,Dexamethasone,Hydrocortisone,Levothyroxine,Methylprednisolone,Paclitaxel,Pegfilgrastim,Pembrolizumab,Prednisone"""
+ABC433,Unknown/Not Applicable
+ABC434,Unknown/Not Applicable
+ABC435,"""Cetuximab,Cisplatin,Nivolumab"""
+ABC436,Cetuximab
+ABC437,Unknown/Not Applicable
+ABC438,"""Cisplatin,Fluorouracil"""
+ABC439,Unknown/Not Applicable
+ABC440,Unknown/Not Applicable
+ABC441,"""Carboplatin,Cisplatin,Fluorouracil,Paclitaxel,Unknown/Not Reported"""
+ABC442,Unknown/Not Applicable
+ABC443,"""Pembrolizumab,Unknown/Not Reported"""
+ABC444,"""Carboplatin,Cetuximab,Dexamethasone,Hydrocortisone,Methylprednisolone,Paclitaxel,Pembrolizumab"""
+ABC445,Cisplatin
+ABC446,"""Cisplatin,Fluorouracil,Pembrolizumab"""
+ABC447,"""Cetuximab,Cisplatin,Docetaxel"""
+ABC448,Unknown/Not Applicable
+ABC449,"""Capecitabine,Carboplatin,Cetuximab,Dexamethasone,Folinic Acid (Leucovorin),Hydrocortisone,Levothyroxine,Minocycline Hydrochloride,Nivolumab,Paclitaxel"""
+ABC450,"""Dexamethasone,Levothyroxine"""
+ABC451,Carboplatin
+ABC452,Unknown/Not Applicable
+ABC453,Unknown/Not Applicable
+ABC454,Unknown/Not Applicable
+ABC455,Cisplatin
+ABC456,"""Carboplatin,Docetaxel,Unknown/Not Reported"""
+ABC457,Unknown/Not Applicable
+ABC458,Cisplatin
+ABC459,Carboplatin
+ABC460,"""Cetuximab,Cisplatin,Dexamethasone,Hydrocortisone,Minocycline Hydrochloride,Nivolumab"""
+ABC461,Unknown/Not Applicable
+ABC462,Cisplatin
+ABC463,"""Carboplatin,Dexamethasone,Hydrocortisone,Paclitaxel"""
+ABC464,Unknown/Not Applicable
+ABC465,"""Carboplatin,Cetuximab,Cisplatin,Docetaxel,Fluorouracil,Pembrolizumab"""
+ABC466,"""Cisplatin,Dexamethasone,Levothyroxine"""
+ABC467,Cisplatin
+ABC468,Cisplatin
+ABC469,"""Chemo, NOS"""
+ABC470,"""Carboplatin,Cetuximab,Dexamethasone,Hydrocortisone,Minocycline Hydrochloride,Paclitaxel,Pembrolizumab"""
+ABC471,Cisplatin
+ABC472,Unknown/Not Applicable
+ABC473,Unknown/Not Applicable
+ABC474,"""Carboplatin,Cisplatin,Dexamethasone,Hydrocortisone,Investigational Agent,Methylprednisolone,Paclitaxel,Prednisone"""
+ABC475,Cisplatin
+ABC476,Unknown/Not Applicable
+ABC477,Cisplatin
+ABC478,"""Dexamethasone,Levothyroxine,Octreotide"""
+ABC479,Unknown/Not Applicable
+ABC480,"""Cisplatin,Pembrolizumab"""
+ABC481,"""Cisplatin,Dexamethasone,Hydrocortisone"""
+ABC482,Unknown/Not Applicable
+ABC483,"""Carboplatin,Cisplatin,Docetaxel,Fluorouracil"""
+ABC484,"""Carboplatin,Nivolumab,Paclitaxel"""
+ABC485,"""Carboplatin,Cisplatin,Fluorouracil,Paclitaxel"""
+ABC486,Cisplatin
+ABC487,Dexamethasone
+ABC488,Unknown/Not Applicable
+ABC489,Cisplatin
+ABC490,Unknown/Not Applicable
+ABC491,Unknown/Not Applicable
+ABC492,Unknown/Not Applicable
+ABC493,"""Chemo, NOS"""
+ABC494,Unknown/Not Applicable
+ABC495,"""Cisplatin,Dexamethasone,Hydrocortisone"""
+ABC496,Unknown/Not Applicable
+ABC497,"""Cetuximab,Dexamethasone,Methylprednisolone,Prednisone"""
+ABC498,Unknown/Not Applicable
+ABC499,Unknown/Not Applicable
+ABC500,"""Carboplatin,Paclitaxel"""
+ABC501,Unknown/Not Applicable
+ABC502,"""Carboplatin,Dexamethasone,Folinic Acid (Leucovorin),Hydrocortisone,Paclitaxel"""
+ABC503,"""Cisplatin,Dexamethasone,Docetaxel,Filgrastim,Fluorouracil"""
+ABC504,Cisplatin
+ABC505,"""Carboplatin,Paclitaxel"""
+ABC506,"""Carboplatin,Dexamethasone,Folinic Acid (Leucovorin),Hydrocortisone,Paclitaxel"""
+ABC507,"""Atezolizumab,Cabozantinib,Carboplatin,Cetuximab,Cisplatin,Docetaxel,Fluorouracil,Investigational Agent"""
+ABC508,"""Carboplatin,Dexamethasone,Docetaxel,Hydrocortisone,Nivolumab,Paclitaxel"""
+ABC509,"""Cisplatin,Etoposide,Pembrolizumab"""
+ABC510,Unknown/Not Applicable
+ABC511,Unknown/Not Applicable
+ABC512,"""Afatinib,Capecitabine,Carboplatin,Cetuximab,Docetaxel,Methotrexate,Nivolumab"""
+ABC513,"""Cisplatin,Docetaxel,Pembrolizumab"""
+ABC514,"""Carboplatin,Cetuximab,Cisplatin,Dexamethasone,Hydrocortisone,Methylprednisolone,Paclitaxel,Pembrolizumab,Zoledronic Acid"""
+ABC515,"""Carboplatin,Cetuximab,Cisplatin,Fluorouracil,Methotrexate,Paclitaxel,Pembrolizumab"""
+ABC516,Cetuximab
+ABC517,Unknown/Not Applicable
+ABC518,Unknown/Not Applicable
+ABC519,"""Carboplatin,Cisplatin,Fluorouracil,Paclitaxel"""
+ABC520,Cisplatin
+ABC521,Dexamethasone
+ABC522,Unknown/Not Applicable
+ABC523,Cisplatin
+ABC524,Unknown/Not Applicable
+ABC525,Unknown/Not Applicable
+ABC526,Unknown/Not Applicable
+ABC527,"""Dexamethasone,Fluorouracil,Investigational Agent,Levothyroxine,Methylprednisolone"""
+ABC528,Cisplatin
+ABC529,"""Carboplatin,Cetuximab,Paclitaxel"""
+ABC530,Cisplatin
+ABC531,Unknown/Not Applicable
+ABC532,Unknown/Not Applicable
+ABC533,Unknown/Not Applicable
+ABC534,Cisplatin
+ABC535,Unknown/Not Applicable
+ABC536,Unknown/Not Applicable
+ABC537,Unknown/Not Applicable
+ABC538,"""Cisplatin,Docetaxel,Fluorouracil"""
+ABC539,Unknown/Not Applicable
+ABC540,"""Carboplatin,Dexamethasone,Folinic Acid (Leucovorin),Hydrocortisone,Methylprednisolone,Paclitaxel"""
+ABC541,"""Carboplatin,Dexamethasone,Hydrocortisone,Ipilimumab,Lenvatinib,Levothyroxine,Nivolumab,Paclitaxel,Prednisone,Vorinostat"""
+ABC542,Cisplatin
+ABC543,Unknown/Not Applicable
+ABC544,Cisplatin
+ABC545,Unknown/Not Applicable
+ABC546,"""Dexamethasone,Folinic Acid (Leucovorin),Levothyroxine,Octreotide"""
+ABC547,Unknown/Not Applicable
+ABC548,Cisplatin
+ABC549,"""Carboplatin,Cisplatin,Dexamethasone,Hydrocortisone,Levothyroxine,Paclitaxel"""
+ABC550,Cetuximab
+ABC551,"""Carboplatin,Cisplatin,Paclitaxel"""
+ABC552,"""Carboplatin,Dexamethasone,Hydrocortisone,Levothyroxine,Methylprednisolone,Paclitaxel,Pembrolizumab"""
+ABC553,"""Dexamethasone,Levothyroxine"""
+ABC554,Unknown/Not Applicable
+ABC555,Carboplatin
+ABC556,"""Carboplatin,Cisplatin,Investigational Agent,Paclitaxel,Pembrolizumab"""
+ABC557,Cetuximab
+ABC558,Unknown/Not Applicable
+ABC559,Cisplatin
+ABC560,"""Chemo, NOS"""
+ABC561,Cisplatin
+ABC562,Carboplatin
+ABC563,Unknown/Not Applicable
+ABC564,Cisplatin
+ABC565,Unknown/Not Applicable
+ABC566,"""Carboplatin,Cetuximab,Dexamethasone,Folinic Acid (Leucovorin),Hydrocortisone,Levothyroxine,Nivolumab,Paclitaxel,Prednisone"""
+ABC567,"""Carboplatin,Cetuximab,Dexamethasone,Hydrocortisone,Levothyroxine,Methylprednisolone,Minocycline Hydrochloride"""
+ABC568,Cisplatin
+ABC569,"""Carboplatin,Nivolumab"""
+ABC570,"""Cetuximab,Cisplatin"""
+ABC571,Carboplatin
+ABC572,Dexamethasone
+ABC573,"""Cetuximab,Dexamethasone,Hydrocortisone,Levothyroxine,Minocycline Hydrochloride"""
+ABC574,Cisplatin
+ABC575,"""Carboplatin,Dexamethasone,Hydrocortisone"""
+ABC576,Cisplatin
+ABC577,Cisplatin
+ABC578,Cisplatin
+ABC579,"""Carboplatin,Dexamethasone"""
+ABC580,"""Carboplatin,Cetuximab,Cisplatin,Doxorubicin Hydrochloride,Fluorouracil,Ipilimumab,Nivolumab,Paclitaxel,Pembrolizumab"""
+ABC581,"""Chemo, NOS"""
+ABC582,Unknown/Not Applicable
+ABC583,"""Carboplatin,Paclitaxel"""
+ABC584,Cisplatin
+ABC585,Cisplatin
+ABC586,Cisplatin
+ABC587,Cisplatin
+ABC588,Cisplatin
+ABC589,Cetuximab
+ABC590,Cisplatin
+ABC591,Unknown/Not Applicable
+ABC592,Cisplatin
+ABC593,Cisplatin
+ABC594,"""Cisplatin,Dexamethasone,Hydrocortisone"""
+ABC595,Cisplatin
+ABC596,Unknown/Not Applicable
+ABC597,"""Carboplatin,Dexamethasone,Everolimus,Hydrocortisone,Levothyroxine,Methylprednisolone,Paclitaxel,Pembrolizumab"""
+ABC598,Unknown/Not Applicable
+ABC599,Cisplatin
+ABC600,"""Dexamethasone,Folinic Acid (Leucovorin),Levothyroxine"""
+ABC601,Cisplatin
+ABC602,Levothyroxine
+ABC603,"""Carboplatin,Cetuximab,Cisplatin,Docetaxel,Fluorouracil,Nivolumab"""
+ABC604,"""Afatinib,Carboplatin,Cisplatin,Investigational Agent,Methotrexate,Pembrolizumab"""
+ABC605,"""Capecitabine,Denosumab,Dexamethasone"""
+ABC606,"""Anastrozole,Cisplatin,Cyclophosphamide,Dexamethasone,Docetaxel,Levothyroxine,Methylprednisolone,Other,Prednisone,Tamoxifen Citrate"""
+ABC607,Unknown/Not Applicable
+ABC608,Cisplatin
+ABC609,"""Dexamethasone,Given with Investigational Therapy,Investigational Agent,Levothyroxine,Prednisone,Tacrolimus"""
+ABC610,"""Carboplatin,Cetuximab,Dexamethasone,Hydrocortisone,Investigational Agent,Paclitaxel"""
+ABC611,"""Carboplatin,Dexamethasone,Investigational Agent,Levothyroxine,Paclitaxel"""
+ABC612,Unknown/Not Applicable
+ABC613,Cisplatin
+ABC614,Cisplatin
+ABC615,Cisplatin
+ABC616,"""Cisplatin,Gemcitabine Hydrochloride"""
+ABC617,"""Carboplatin,Dexamethasone,Hydrocortisone,Lenvatinib,Paclitaxel,Pegfilgrastim,Vorinostat"""
+ABC618,"""Cisplatin,Dexamethasone"""
+ABC619,Unknown/Not Applicable
+ABC620,"""Dexamethasone,Hydrocortisone,Levothyroxine"""
+ABC621,Unknown/Not Applicable
+ABC622,"""Chemo, NOS"""
+ABC623,"""Carboplatin,Cetuximab,Cisplatin,Dexamethasone,Hydrocortisone,Ipilimumab,Levothyroxine,Nivolumab,Paclitaxel"""
+ABC624,Unknown/Not Applicable
+ABC625,"""Carboplatin,Cisplatin"""
+ABC626,Unknown/Not Applicable
+ABC627,Unknown/Not Applicable
+ABC628,"""Carboplatin,Paclitaxel"""
+ABC629,Cisplatin
+ABC630,"""Cetuximab,Cisplatin,Dexamethasone,Prednisone"""
+ABC631,Letrozole
+ABC632,"""Cisplatin,Paclitaxel"""
+ABC633,Cisplatin
+ABC634,Unknown/Not Applicable
+ABC635,Pembrolizumab
+ABC636,Cisplatin
+ABC637,Cisplatin
+ABC638,"""Dexamethasone,Lenvatinib,Leuprolide Acetate,Levothyroxine,Methylprednisolone,Vorinostat"""
+ABC639,"""Cisplatin,Dexamethasone,Hydrocortisone,Levothyroxine"""
+ABC640,Cisplatin
+ABC641,Unknown/Not Applicable
+ABC642,Levothyroxine
+ABC643,"""Cisplatin,Cyclophosphamide,Dexamethasone,Filgrastim,Fludarabine Phosphate,Interleukin-2,Levothyroxine,Mesna,Pembrolizumab"""
+ABC644,Unknown/Not Applicable
+ABC645,Cisplatin
+ABC646,Cisplatin
+ABC647,"""Dexamethasone,Levothyroxine"""
+ABC648,"""Carboplatin,Cisplatin,Paclitaxel,Pembrolizumab"""
+ABC649,Cisplatin
+ABC650,"""Cetuximab,Investigational Agent"""
+ABC651,Unknown/Not Applicable
+ABC652,"""Carboplatin,Cisplatin,Fluorouracil,Gemcitabine Hydrochloride,Nivolumab"""
+ABC653,Unknown/Not Applicable
+ABC654,Unknown/Not Applicable
+ABC655,Unknown/Not Applicable
+ABC656,"""Chemo, NOS,Other"""
+ABC657,"""Carboplatin,Cyclophosphamide,Dexamethasone,Filgrastim,Fludarabine Phosphate,Interleukin-2,Investigational Agent,Levothyroxine,Mesna,Nivolumab,Other,Paclitaxel,Pembrolizumab"""
+ABC658,Levothyroxine
+ABC659,Cisplatin
+ABC660,Cisplatin
+ABC661,Cisplatin
+ABC662,"""Dexamethasone,Hydrocortisone,Methylprednisolone,Minocycline Hydrochloride,Pembrolizumab,Prednisone"""
+ABC663,"""Dexamethasone,Hydroxyurea,Imatinib Mesylate"""
+ABC664,Cisplatin
+ABC665,"""Carboplatin,Chemo, NOS,Fluorouracil,Pembrolizumab"""
+ABC666,Unknown/Not Applicable
+ABC667,Cisplatin
+ABC668,"""Carboplatin,Cisplatin,Paclitaxel"""
+ABC669,Unknown/Not Applicable
+ABC670,"""Cisplatin,Dexamethasone,Hydrocortisone"""
+ABC671,Cisplatin
+ABC672,"""Carboplatin,Denosumab,Paclitaxel,Pembrolizumab"""
+ABC673,"""Carboplatin,Dexamethasone,Hydrocortisone,Levothyroxine"""
+ABC674,"""Investigational Agent,Pembrolizumab"""
+ABC675,Unknown/Not Applicable
+ABC676,"""Cetuximab,Pembrolizumab"""
+ABC677,"""Chemo, NOS"""
+ABC678,"""Dexamethasone,Hydrocortisone,Lenvatinib,Levothyroxine,Vorinostat"""
+ABC679,"""Cytarabine,Dexamethasone,Filgrastim,Folinic Acid (Leucovorin),Hydrocortisone,Levothyroxine,Methotrexate,Rituximab,Temozolomide"""
+ABC680,Unknown/Not Applicable
+ABC681,Unknown/Not Applicable
+ABC682,Unknown/Not Applicable
+ABC683,Cisplatin
+ABC684,Cisplatin
+ABC685,"""Carboplatin,Cisplatin,Docetaxel,Gemcitabine Hydrochloride,Methotrexate,Nivolumab"""
+ABC686,"""Cisplatin,Nivolumab"""
+ABC687,"""Chemo, NOS"""
+ABC688,"""Cisplatin,Dexamethasone,Levothyroxine,Other,Pembrolizumab"""
+ABC689,Cisplatin
+ABC690,Unknown/Not Applicable
+ABC691,"""Dexamethasone,Folinic Acid (Leucovorin),Hydrocortisone"""
+ABC692,Unknown/Not Applicable
+ABC693,"""Cisplatin,Nivolumab"""
+ABC694,Cisplatin
+ABC695,Unknown/Not Applicable
+ABC696,Carboplatin
+ABC697,Cisplatin
+ABC698,"""Carboplatin,Dexamethasone,Hydrocortisone,Octreotide,Paclitaxel"""
+ABC699,"""Afatinib,Carboplatin,Cetuximab,Dexamethasone,Filgrastim,Folinic Acid (Leucovorin),Gemcitabine Hydrochloride,Hydrocortisone,Investigational Agent,Levothyroxine,Paclitaxel,Prednisone"""
+ABC700,"""Carboplatin,Cisplatin,Docetaxel,Pembrolizumab"""
+ABC701,Cisplatin
+ABC702,"""Dexamethasone,Folinic Acid (Leucovorin),Leuprolide Acetate"""
+ABC703,"""Chemo, NOS,Investigational Agent"""
+ABC704,Unknown/Not Applicable
+ABC705,"""Carboplatin,Cetuximab,Cisplatin,Paclitaxel,Pembrolizumab"""
+ABC706,"""Cisplatin,Dexamethasone,Hydrocortisone,Zoledronic Acid"""
+ABC707,Unknown/Not Applicable
+ABC708,"""Cisplatin,Pembrolizumab"""
+ABC709,Cisplatin
+ABC710,"""Cisplatin,Pembrolizumab"""
+ABC711,Cisplatin
+ABC712,"""Bicalutamide,Dexamethasone"""
+ABC713,"""Carboplatin,Dexamethasone,Hydrocortisone,Paclitaxel"""
+ABC714,"""Carboplatin,Cetuximab,Cisplatin,Docetaxel,Fluorouracil,Hydroxyurea,Investigational Agent,Pembrolizumab"""
+ABC715,"""Carboplatin,Dexamethasone,Docetaxel,Hydrocortisone,Nivolumab,Paclitaxel"""
+ABC716,"""Cisplatin,Etoposide"""
+ABC717,"""Cetuximab,Dexamethasone,Folinic Acid (Leucovorin),Hydrocortisone,Levothyroxine,Methylprednisolone"""
+ABC718,Unknown/Not Applicable
+ABC719,Cisplatin
+ABC720,"""Dexamethasone,Fluorouracil,Levothyroxine,Methylprednisolone,Prednisone"""
+ABC721,Unknown/Not Applicable
+ABC722,"""Carboplatin,Fluorouracil,Pembrolizumab"""
+ABC723,"""Carboplatin,Durvalumab,Paclitaxel"""
+ABC724,Unknown/Not Applicable
+ABC725,Unknown/Not Applicable
+ABC726,"""Bevacizumab,Dexamethasone"""
+ABC727,"""Cetuximab,Chemo, NOS,Other"""
+ABC728,"""Cisplatin,Dexamethasone,Folinic Acid (Leucovorin),Hydrocortisone"""
+ABC729,Unknown/Not Applicable
+ABC730,Unknown/Not Applicable
+ABC731,"""Carboplatin,Cetuximab,Dexamethasone,Hydrocortisone,Minocycline Hydrochloride,Paclitaxel,Pegfilgrastim"""
+ABC732,Cisplatin
+ABC733,"""Carboplatin,Cisplatin,Paclitaxel"""
+ABC734,"""Dexamethasone,Levothyroxine"""
+ABC735,"""Carboplatin,Cetuximab,Dexamethasone,Hydrocortisone,Investigational Agent,Levothyroxine,Minocycline Hydrochloride,Paclitaxel"""
+ABC736,Cisplatin
+ABC737,Unknown/Not Applicable
+ABC738,Unknown/Not Applicable
+ABC739,"""Carboplatin,Cisplatin,Pembrolizumab"""
+ABC740,Cisplatin
+ABC741,"""Dexamethasone,Levothyroxine"""
+ABC742,Levothyroxine
+ABC743,Cisplatin
+ABC744,Unknown/Not Applicable
+ABC745,"""Dexamethasone,Folinic Acid (Leucovorin),Levothyroxine"""
+ABC746,"""Carboplatin,Paclitaxel"""
+ABC747,Unknown/Not Applicable
+ABC748,Cetuximab
+ABC749,Unknown/Not Applicable
+ABC750,Unknown/Not Applicable
+ABC751,Pembrolizumab
+ABC752,Cisplatin
+ABC753,"""Dexamethasone,Octreotide"""
+ABC754,"""Carboplatin,Dexamethasone,Investigational Agent,Levothyroxine,Octreotide,Paclitaxel"""
+ABC755,"""Dexamethasone,Investigational Agent,Octreotide"""
+ABC756,"""Atezolizumab,Carboplatin,Dexamethasone,Etoposide,Hydrocortisone,Levothyroxine,Paclitaxel,Pegfilgrastim"""
+ABC757,Unknown/Not Applicable
+ABC758,Unknown/Not Applicable
+ABC759,"""Ado-Trastuzumab Emtansine,Carboplatin,Dexamethasone,Hydrocortisone,Levothyroxine,Paclitaxel"""
+ABC760,Unknown/Not Applicable
+ABC761,"""Carboplatin,Cisplatin,Paclitaxel"""
+ABC762,"""Dexamethasone,Folinic Acid (Leucovorin),Prednisone"""
+ABC763,Levothyroxine
+ABC764,Unknown/Not Applicable
+ABC765,Unknown/Not Applicable
+ABC766,"""Capecitabine,Carboplatin,Docetaxel,Fluorouracil,Pembrolizumab,Unknown/Not Reported"""
+ABC767,Cisplatin
+ABC768,Unknown/Not Applicable
+ABC769,"""Carboplatin,Cetuximab,Dexamethasone,Hydrocortisone,Levothyroxine,Methylprednisolone,Paclitaxel,Pegfilgrastim,Pembrolizumab"""
+ABC770,"""Capecitabine,Cetuximab,Cisplatin,Investigational Agent,Pembrolizumab"""
+ABC771,Cisplatin
+ABC772,Unknown/Not Applicable
+ABC773,Cisplatin
+ABC774,Unknown/Not Applicable
+ABC775,Unknown/Not Reported
+ABC776,Unknown/Not Applicable
+ABC777,"""Cisplatin,Dexamethasone,Fluorouracil,Folinic Acid (Leucovorin),Methylprednisolone"""
+ABC778,"""Chemo, NOS"""
+ABC779,"""Carboplatin,Cetuximab,Cisplatin,Dexamethasone,Hydrocortisone,Levothyroxine,Paclitaxel,Pembrolizumab"""
+ABC780,"""Carboplatin,Dexamethasone,Hydrocortisone,Lenvatinib,Levothyroxine,Octreotide,Paclitaxel,Pembrolizumab,Zoledronic Acid"""
+ABC781,Cisplatin
+ABC782,Unknown/Not Applicable
+ABC783,Unknown/Not Applicable
+ABC784,Unknown/Not Applicable
+ABC785,"""Carboplatin,Cisplatin"""
+ABC786,Cisplatin
+ABC787,"""Carboplatin,Cetuximab,Docetaxel,Nivolumab,Paclitaxel"""
+ABC788,"""Dexamethasone,Given with Investigational Therapy,Hydrocortisone,Investigational Agent,Prednisone"""
+ABC789,"""Carboplatin,Cisplatin,Denosumab,Dexamethasone,Etoposide,Hydrocortisone,Levothyroxine,Megestrol Acetate,Pegfilgrastim,Prednisone"""
+ABC790,Cisplatin
+ABC791,Unknown/Not Applicable
+ABC792,Cisplatin
+ABC793,"""Carboplatin,Dexamethasone,Folinic Acid (Leucovorin),Hydrocortisone,Paclitaxel,Prednisone"""
+ABC794,Cisplatin
+ABC795,Unknown/Not Applicable
+ABC796,Levothyroxine
+ABC797,"""Carboplatin,Cetuximab,Cisplatin,Dexamethasone,Docetaxel,Hydrocortisone,Levothyroxine,Methylprednisolone,Minocycline Hydrochloride,Nivolumab,Paclitaxel,Pegfilgrastim"""
+ABC798,"""Dexamethasone,Levothyroxine"""
+ABC799,"""Azacitidine,Busulfan,Cytarabine,Daunorubicin Hydrochloride,Dexamethasone,Filgrastim,Fludarabine Phosphate,Hydrocortisone,Methotrexate,Methylprednisolone,Prednisone,Rituximab,Tacrolimus"""
+ABC800,Unknown/Not Applicable
+ABC801,Unknown/Not Applicable
+ABC802,Unknown/Not Applicable
+ABC803,Cisplatin
+ABC804,"""Fluorouracil,Levothyroxine"""
+ABC805,Unknown/Not Applicable
+ABC806,Unknown/Not Applicable
+ABC807,"""Chemo, NOS"""
+ABC808,Unknown/Not Reported
+ABC809,"""Cisplatin,Dexamethasone"""
+ABC810,"""Carboplatin,Dexamethasone,Hydrocortisone,Levothyroxine,Zoledronic Acid"""
+ABC811,"""Carboplatin,Cisplatin,Dexamethasone,Hydrocortisone,Methylprednisolone,Paclitaxel"""
+ABC812,"""Cisplatin,Denosumab,Dexamethasone,Docetaxel,Hydrocortisone,Lenvatinib,Methylprednisolone,Pegfilgrastim,Pembrolizumab,Prednisone"""
+ABC813,"""Chemo, NOS"""
+ABC814,Cisplatin
+ABC815,Unknown/Not Applicable
+ABC816,Unknown/Not Applicable
+ABC817,"""Carboplatin,Cetuximab,Docetaxel,Fluorouracil,Given with Investigational Therapy,Investigational Agent,Pembrolizumab"""
+ABC818,Unknown/Not Applicable
+ABC819,"""Carboplatin,Cisplatin,Panobinostat"""
+ABC820,"""Cetuximab,Dexamethasone,Methylprednisolone,Prednisone"""
+ABC821,Unknown/Not Applicable
+ABC822,Unknown/Not Applicable
+ABC823,"""Carboplatin,Paclitaxel"""
+ABC824,Unknown/Not Applicable
+ABC825,"""Carboplatin,Dexamethasone,Folinic Acid (Leucovorin),Hydrocortisone,Paclitaxel"""
+ABC826,"""Cisplatin,Dexamethasone,Docetaxel,Filgrastim,Fluorouracil"""
+ABC827,Cisplatin
+ABC828,"""Carboplatin,Paclitaxel"""
+ABC829,"""Carboplatin,Dexamethasone,Folinic Acid (Leucovorin),Hydrocortisone,Paclitaxel"""
+ABC830,"""Atezolizumab,Cabozantinib,Carboplatin,Cetuximab,Cisplatin,Docetaxel,Fluorouracil,Investigational Agent"""
+ABC831,"""Carboplatin,Dexamethasone,Docetaxel,Hydrocortisone,Nivolumab,Paclitaxel"""
+ABC832,"""Cisplatin,Etoposide,Pembrolizumab"""
+ABC833,Unknown/Not Applicable
+ABC834,Unknown/Not Applicable
